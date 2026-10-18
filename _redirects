@@ -1,0 +1,5 @@
+# Local tooling must never be downloadable from the deployed site.
+/.tools/*     /  302
+/.clinerules  /  302
+/_lint.ps1    /  302
+/_verify.ps1  /  302

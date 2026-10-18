@@ -1,0 +1,9 @@
+# Local tooling / deployment state (not part of the published site)
+.wrangler/
+.tools/
+.clinerules
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store

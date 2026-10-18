@@ -1,0 +1,417 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://www.lcm.my/wp
+Data file = /mnt/target03/366241/2011407/www.lcm.my/web/content/wp/wp-content/uploads/2019/12/demo-content-import-file_2019-12-08__03-18-38.xml
+Widget file = /mnt/target03/366241/2011407/www.lcm.my/web/content/wp/wp-content/uploads/2019/12/demo-widgets-import-file_2019-12-08__03-18-38.json
+Customizer file = /mnt/target03/366241/2011407/www.lcm.my/web/content/wp/wp-content/uploads/2019/12/demo-customizer-import-file_2019-12-08__03-18-38.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+
+
+------
+New AJAX call!
+[WARNING] Failed to import pa_size 32GB
+[WARNING] Failed to import product_tag 3d
+[WARNING] Failed to import product_tag 4k
+[WARNING] Failed to import pa_size 64GB
+[WARNING] Failed to import product_tag action
+[WARNING] Failed to import product_tag apple
+[WARNING] Failed to import pa_brand Apple
+[WARNING] Failed to import product_tag camera
+[WARNING] Failed to import product_tag case
+[WARNING] Failed to import product_tag console
+[WARNING] Failed to import product_tag controllers
+[WARNING] Failed to import product_tag dj
+[WARNING] Failed to import product_tag dslr
+[WARNING] Failed to import product_tag equipment
+[WARNING] Failed to import product_tag gaming
+[WARNING] Failed to import product_tag headphones
+[WARNING] Failed to import pa_brand Huawei
+[WARNING] Failed to import product_tag laptop
+[WARNING] Failed to import product_tag marshall
+[WARNING] Failed to import product_tag microsoft
+[WARNING] Failed to import product_tag mobile
+[WARNING] Failed to import product_tag nikon
+[WARNING] Failed to import product_tag pc
+[WARNING] Failed to import product_tag printing
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_brand Samsung
+[WARNING] Failed to import product_tag television
+[WARNING] Failed to import product_tag tv
+[WARNING] Failed to import product_tag watch
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_brand Xiaomi
+[WARNING] Failed to import product_cat 3D Printers
+[WARNING] Failed to import product_cat Computers &amp; Peripherals
+[WARNING] Failed to import product_cat Gaming
+[WARNING] Failed to import product_cat Mobiles &amp; Tablets
+[WARNING] Failed to import product_cat Smart Watches
+[WARNING] Failed to import product_cat Sound
+[WARNING] Failed to import product_cat TV &amp; Accessories
+[WARNING] Failed to import product_cat Video &amp; Photography
+[WARNING] Failed to import "Home": Invalid post type maxslider_slider
+
+
+---Importing widgets---
+Blog : 
+
+Search - No Title - Widget already exists
+Theme - Latest Posts - Latest Posts - Imported
+Categories - Categories - Imported
+Theme - Social Icons - Elsewhere - Imported
+Text - No Title - Imported
+woocommerce_products - New Arrivals - Site does not support widget
+
+Front Page : 
+
+Theme (home) - WooCommerce Categories - Recommended categories for you - Imported
+Theme (home) - Latest Products - Recommendations for you - Imported
+Theme (home) - WooCommerce Categories - No Title - Imported
+Theme (home) - Latest Products - Top products this month - Imported
+Theme (home) - WooCommerce Categories - No Title - Imported
+
+Shop : 
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_layered_nav - Brands - Site does not support widget
+Text - No Title - Imported
+woocommerce_products - Featured Products - Site does not support widget
+woocommerce_recently_viewed_products - Recently Viewed Products - Site does not support widget
+
+Pre-footer : 
+
+Theme - Newsletter - Our Newsletter - Imported
+
+Footer - 1st column : 
+
+Text - No Title - Imported
+
+Footer - 2nd column : 
+
+Navigation Menu - Quick Menu - Imported
+
+Footer - 3rd column : 
+
+woocommerce_products - On Sale - Site does not support widget
+
+Footer - 4th column : 
+
+Text - Physical Store Opening Hours - Imported
+
+
+
+---Importing widgets---
+Blog : 
+
+Search - No Title - Widget already exists
+Theme - Latest Posts - Latest Posts - Widget already exists
+Categories - Categories - Widget already exists
+Theme - Social Icons - Elsewhere - Widget already exists
+Text - No Title - Widget already exists
+woocommerce_products - New Arrivals - Site does not support widget
+
+Front Page : 
+
+Theme (home) - WooCommerce Categories - Recommended categories for you - Widget already exists
+Theme (home) - Latest Products - Recommendations for you - Widget already exists
+Theme (home) - WooCommerce Categories - No Title - Widget already exists
+Theme (home) - Latest Products - Top products this month - Widget already exists
+Theme (home) - WooCommerce Categories - No Title - Widget already exists
+
+Shop : 
+
+woocommerce_price_filter - Filter by price - Site does not support widget
+woocommerce_product_categories - Product categories - Site does not support widget
+woocommerce_layered_nav - Brands - Site does not support widget
+Text - No Title - Widget already exists
+woocommerce_products - Featured Products - Site does not support widget
+woocommerce_recently_viewed_products - Recently Viewed Products - Site does not support widget
+
+Pre-footer : 
+
+Theme - Newsletter - Our Newsletter - Widget already exists
+
+Footer - 1st column : 
+
+Text - No Title - Widget already exists
+
+Footer - 2nd column : 
+
+Navigation Menu - Quick Menu - Widget already exists
+
+Footer - 3rd column : 
+
+woocommerce_products - On Sale - Site does not support widget
+
+Footer - 4th column : 
+
+Text - Physical Store Opening Hours - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

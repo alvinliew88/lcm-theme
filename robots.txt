@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Local build tooling is not part of the published site.
+Disallow: /.tools/
+Disallow: /404.html
